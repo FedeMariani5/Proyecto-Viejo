@@ -1,0 +1,275 @@
+# depslib dependency file v1.0
+1686164426 source:c:\users\usuario\desktop\proyecto_final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1686164426 c:\users\usuario\desktop\proyecto_final\clientes.h
+
+1686236557 source:c:\users\usuario\desktop\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1686159772 source:c:\users\usuario\desktop\proyecto_final\archivo_clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivo_clientes.h"
+	"conio.h"
+
+1686159772 c:\users\usuario\desktop\proyecto_final\archivo_clientes.h
+
+1686164426 source:c:\users\usuario\desktop\proyecto_final\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1686236692 source:c:\users\usuario\desktop\proyecto_final\archivoclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1686236653 c:\users\usuario\desktop\proyecto_final\archivoclientes.h
+
+1687039093 source:c:\users\lucas\desktop\proyecto_final\archivoclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1687039132 c:\users\lucas\desktop\proyecto_final\clientes.h
+
+1687040206 c:\users\lucas\desktop\proyecto_final\archivoclientes.h
+
+1687039979 source:c:\users\lucas\desktop\proyecto_final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1686223172 source:c:\users\lucas\desktop\proyecto_final\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1686223172 source:c:\users\lucas\desktop\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1687039299 source:c:\users\lucas\desktop\proyecto_final\archivocuenta.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1687309329 source:c:\users\usuario\downloads\proyecto_final_domingo\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"conio.h"
+
+1687307976 c:\users\usuario\downloads\proyecto_final_domingo\clientes.h
+
+1687325459 source:c:\users\usuario\downloads\proyecto_final_domingo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"cuentas.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1687321887 c:\users\usuario\downloads\proyecto_final_domingo\archivoclientes.h
+
+1687324751 source:c:\users\usuario\downloads\proyecto_final_domingo\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"archivoCuenta.h"
+	"conio.h"
+
+1687308443 c:\users\usuario\downloads\proyecto_final_domingo\cuentas.h
+
+1687320897 c:\users\usuario\downloads\proyecto_final_domingo\archivocuenta.h
+
+1687323784 source:c:\users\usuario\downloads\proyecto_final_domingo\archivoclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"eventuales.h"
+	"string.h"
+	"conio.h"
+
+1687325643 source:c:\users\usuario\downloads\proyecto_final_domingo\archivocuenta.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"archivoCuenta.h"
+	"conio.h"
+
+1687320622 source:c:\users\usuario\downloads\proyecto_final_domingo\eventuales.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"archivoCuenta.h"
+	"conio.h"
+	"eventuales.h"
+
+1687320643 c:\users\usuario\downloads\proyecto_final_domingo\eventuales.h
+	"cuentas.h"
+
+1687308561 source:c:\users\usuario\downloads\proyecto_final_domingo\movimiento.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"conio.h"
+	"movimiento.h"
+	"eventuales.h"
+
+1687308562 c:\users\usuario\downloads\proyecto_final_domingo\movimiento.h
+	"cuentas.h"
+
+1687310460 source:c:\users\usuario\downloads\proyecto_final_domingo\archivomovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"movimiento.h"
+	"eventuales.h"
+	"string.h"
+	"conio.h"
+
+1687303781 source:c:\users\usuario\downloads\proyecto_final_domingo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687307448 source:c:\users\usuario\downloads\proyecto_final_domingo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"gotoxy.h"
+	"conio.h"
+
+1687303784 c:\users\usuario\downloads\proyecto_final_domingo\gotoxy.h
+
+1687362896 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\archivocuenta.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"archivoCuenta.h"
+	"conio.h"
+
+1687362896 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\clientes.h
+
+1687362896 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\archivoclientes.h
+
+1687363138 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\cuentas.h
+
+1687362896 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\archivocuenta.h
+
+1687378736 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\archivomovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"movimiento.h"
+	"eventuales.h"
+	"string.h"
+	"conio.h"
+
+1687362896 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\movimiento.h
+	"cuentas.h"
+
+1687362896 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\eventuales.h
+	"cuentas.h"
+
+1687362896 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"conio.h"
+
+1687363138 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"archivoCuenta.h"
+	"conio.h"
+
+1687362896 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\eventuales.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"archivoCuenta.h"
+	"conio.h"
+	"eventuales.h"
+
+1687362896 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687378561 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"cuentas.h"
+	"archivoClientes.h"
+	"conio.h"
+
+1687362945 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\archivoclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"eventuales.h"
+	"string.h"
+	"conio.h"
+
+1687362896 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"gotoxy.h"
+	"conio.h"
+
+1687362896 c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\gotoxy.h
+
+1687378149 source:c:\users\ferod\onedrive\escritorio\proyecto_final_domingo\movimiento.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"clientes.h"
+	"archivoClientes.h"
+	"cuentas.h"
+	"conio.h"
+	"movimiento.h"
+	"eventuales.h"
+
